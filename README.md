@@ -1,4 +1,4 @@
-# 📊 Proyecto: Análisis de Ventas con Python
+# 📊 Practicas
 
 Este repositorio contiene dos programas en Python (`ventas.py` y `ventas1.py`) que permiten analizar y visualizar datos de ventas utilizando las librerías `NumPy`, `Pandas` y `Matplotlib`.
 

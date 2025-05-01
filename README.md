@@ -15,6 +15,24 @@ Este repositorio contiene dos programas en Python (`ventas.py` y `ventas1.py`) q
   - `Producto`
   - `Unidades Vendidas`
 
+- **t4ventas.py**  
+  Script que analiza datos de empleados desde un archivo CSV, calcula bonos, y genera gráficas de salarios. Se centra en tareas relacionadas con productividad y compensaciones.
+
+- **t4ventas1.py**  
+  Versión alternativa o extendida del análisis anterior. Puede incluir otras métricas o gráficas más específicas para complementar el análisis de `t4ventas.py`.
+
+- **empleados.py**  
+  Script que genera el archivo `empleados.csv` con datos ficticios de 30 empleados, incluyendo nombre, edad, departamento y salario.
+
+- **prueba.py**  
+  Archivo auxiliar utilizado para pruebas generales de código. Puede contener fragmentos o experimentos con funciones de Pandas, NumPy o Matplotlib.
+
+- **requirements.txt**  
+  Archivo que contiene las versiones exactas de las librerías utilizadas (`numpy`, `pandas`, `matplotlib`), útil para replicar el entorno de trabajo.
+
+- **empleados.csv**  
+  Archivo con los datos generados por `empleados.py`. Incluye columnas como `Nombre`, `Edad`, `Departamento` y `Salario`.
+
 ## 🛠 Librerías utilizadas
 
 - `NumPy`

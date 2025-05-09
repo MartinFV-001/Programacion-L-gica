@@ -45,6 +45,9 @@ Este repositorio contiene varios programas escritos en Python que permiten anali
 - `Pandas`
 - `Matplotlib`
 - `scikit-learn`
+- `joblib`
+- `scipy`
+- `threadpoolctl`
 
 ### Instalación rápida de dependencias
 

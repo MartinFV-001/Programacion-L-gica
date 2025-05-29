@@ -39,7 +39,7 @@ insertar_datos(ip_privada, ip_publica, nombre_usuario)
 
 Se configuraron las reglas de **HTTP** y **MySQL** para optimizar la conexión con la base de datos.
 
-![Configuración de reglas en la instancia](img/1.png)
+![Configuración de reglas en la instancia](img/1.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Se configuraron las reglas de **HTTP** y **MySQL** para optimizar la conexión c
 
 Se configuraron 2 reglas de **MySQL**: una para distinguir la IP del equipo físico y otra para reconocer el grupo de reglas de seguridad de la instancia.
 
-![Configuración de reglas en la base de datos](img/2.png)
+![Configuración de reglas en la base de datos](img/2.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ Se configuraron 2 reglas de **MySQL**: una para distinguir la IP del equipo fís
 
 Desde la consola de comandos (cmd), accedimos a MySQL en la instancia, creamos la base de datos llamada `porlog` y la tabla `datos_usuario` donde se almacenarán los datos enviados desde el programa en Python.
 
-![Creación de la base de datos](img/3.png)
+![Creación de la base de datos](img/3.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ Desde la consola de comandos (cmd), accedimos a MySQL en la instancia, creamos l
 
 Se cambiaron los parámetros necesarios para conectar correctamente con la base de datos.
 
-![Parámetros del código](img/4.png)
+![Parámetros del código](img/4.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ Se cambiaron los parámetros necesarios para conectar correctamente con la base 
 
 Se ejecutó el programa en Python que realiza el registro de los datos en la base de datos.
 
-![Ejecución del código](img/5.png)
+![Ejecución del código](img/5.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Se ejecutó el programa en Python que realiza el registro de los datos en la bas
 
 Desde la instancia, se validó que los datos fueron correctamente almacenados en la base de datos.
 
-![Resultados en la base de datos](img/6.png)
+![Resultados en la base de datos](img/6.jpg)
 
 ---
 
